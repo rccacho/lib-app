@@ -1,0 +1,14 @@
+<div>
+  <%= link_to "Add New Library", new_library_path %>
+</div>
+
+<% @libraries.each do |library| %>
+  <div>
+    <%= link_to "#{library.name}", library_path(library) %> 
+    <% if current_user %>
+      <%= button_to "Join", library_users_path(library) %>
+    <% end %>
+  </div>
+  <br>
+<% end %>
+
