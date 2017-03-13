@@ -1,0 +1,186 @@
+commit f630085d199569b34f777b0d364e36d2485336fc
+Author: rccacho <rccacho@gmail.com>
+Date:   Sun Mar 12 19:48:43 2017 -0700
+
+    add link to make new library
+
+commit 2ee94b6694225442a3ea7d35de7274659035b892
+Author: rccacho <rccacho@gmail.com>
+Date:   Sun Mar 12 19:03:31 2017 -0700
+
+    added links to connect pages
+
+commit cf61c2c16ae4ed6a701b0ec42782e09f0b416d2e
+Author: rccacho <rccacho@gmail.com>
+Date:   Sun Mar 12 14:27:42 2017 -0700
+
+    completed library users route, controller, and view and auth stuff
+
+commit 4c24c1d46b7fd229341964b56724a4f7bc17340c
+Author: rccacho <rccacho@gmail.com>
+Date:   Sat Mar 11 17:44:54 2017 -0800
+
+    add library show route, controller and view stuff
+
+commit c40e6b475dd0d39ef26c139996929f18c46a5de1
+Author: rccacho <rccacho@gmail.com>
+Date:   Fri Mar 10 16:45:27 2017 -0800
+
+    add index and new library routes, controllers, and views
+
+commit fb333867a9e032f7c3cf6fa4d2c7dfda9d5eb487
+Author: rccacho <rccacho@gmail.com>
+Date:   Fri Mar 10 16:37:22 2017 -0800
+
+    add library and library_user models
+
+commit 616700806299c2e6b39f2997d52a37d994495ae3
+Author: rccacho <rccacho@gmail.com>
+Date:   Fri Mar 10 16:31:57 2017 -0800
+
+    add log out stuff
+
+commit 2aa9b7639d84a4069eff1ab1b6a2dbac1374d293
+Author: rccacho <rccacho@gmail.com>
+Date:   Fri Mar 10 16:01:22 2017 -0800
+
+    add log in stuff
+
+commit b66e4fe1b49d6601d67d0f152354ee2c40807f1f
+Author: rccacho <rccacho@gmail.com>
+Date:   Fri Mar 10 15:21:29 2017 -0800
+
+    created sessions route, controller, and new view
+
+commit 14bd6ff3d68b02e058571643cee46f9be088e1fc
+Author: rccacho <rccacho@gmail.com>
+Date:   Fri Mar 10 15:14:36 2017 -0800
+
+    completed show route, controller, and view
+
+commit d5fe240fc1c8caf65437ac345cf366f386ec623f
+Author: rccacho <rccacho@gmail.com>
+Date:   Fri Mar 10 15:09:40 2017 -0800
+
+    add bcrypt
+
+commit b014760cff89d3c628047fe7c4b9a0931d27bad3
+Author: rccacho <rccacho@gmail.com>
+Date:   Fri Mar 10 15:06:32 2017 -0800
+
+    set-up create path stuff
+
+commit 1592b6059367f6ccdd243a2eb9d613c14b2f9895
+Author: rccacho <rccacho@gmail.com>
+Date:   Fri Mar 10 15:02:59 2017 -0800
+
+    completed new user view
+
+commit 5666e5d09c1968269c629512fa270c6c9fe439c6
+Author: rccacho <rccacho@gmail.com>
+Date:   Fri Mar 10 14:30:44 2017 -0800
+
+    Initial commit + started users model and controller
+
+commit 8f5bdd60c04da64b218bbd34e68f9dd3b66b1c84
+Author: rccacho <rccacho@gmail.com>
+Date:   Wed Jan 25 15:53:40 2017 -0800
+
+    homework day3
+
+commit 6f27bcbddeec0e9917fdfd16cb01fd60d2e8bbfc
+Author: rccacho <rccacho@gmail.com>
+Date:   Sat Jan 21 14:14:45 2017 -0800
+
+    javascript to create cards
+
+commit 92d2af9750158b6e788d549f729108485bb6c3f5
+Author: Regelyn Cacho <rccacho@gmail.com>
+Date:   Thu Jan 12 14:52:46 2017 -0800
+
+    added card comparison JS
+
+commit f630085d199569b34f777b0d364e36d2485336fc
+Author: rccacho <rccacho@gmail.com>
+Date:   Sun Mar 12 19:48:43 2017 -0700
+
+    add link to make new library
+
+commit 2ee94b6694225442a3ea7d35de7274659035b892
+Author: rccacho <rccacho@gmail.com>
+Date:   Sun Mar 12 19:03:31 2017 -0700
+
+    added links to connect pages
+
+commit cf61c2c16ae4ed6a701b0ec42782e09f0b416d2e
+Author: rccacho <rccacho@gmail.com>
+Date:   Sun Mar 12 14:27:42 2017 -0700
+
+    completed library users route, controller, and view and auth stuff
+
+commit 4c24c1d46b7fd229341964b56724a4f7bc17340c
+Author: rccacho <rccacho@gmail.com>
+Date:   Sat Mar 11 17:44:54 2017 -0800
+
+    add library show route, controller and view stuff
+
+commit c40e6b475dd0d39ef26c139996929f18c46a5de1
+Author: rccacho <rccacho@gmail.com>
+Date:   Fri Mar 10 16:45:27 2017 -0800
+
+    add index and new library routes, controllers, and views
+
+commit fb333867a9e032f7c3cf6fa4d2c7dfda9d5eb487
+Author: rccacho <rccacho@gmail.com>
+Date:   Fri Mar 10 16:37:22 2017 -0800
+
+    add library and library_user models
+
+commit 616700806299c2e6b39f2997d52a37d994495ae3
+Author: rccacho <rccacho@gmail.com>
+Date:   Fri Mar 10 16:31:57 2017 -0800
+
+    add log out stuff
+
+commit 2aa9b7639d84a4069eff1ab1b6a2dbac1374d293
+Author: rccacho <rccacho@gmail.com>
+Date:   Fri Mar 10 16:01:22 2017 -0800
+
+    add log in stuff
+
+commit b66e4fe1b49d6601d67d0f152354ee2c40807f1f
+Author: rccacho <rccacho@gmail.com>
+Date:   Fri Mar 10 15:21:29 2017 -0800
+
+    created sessions route, controller, and new view
+
+commit 14bd6ff3d68b02e058571643cee46f9be088e1fc
+Author: rccacho <rccacho@gmail.com>
+Date:   Fri Mar 10 15:14:36 2017 -0800
+
+    completed show route, controller, and view
+
+commit d5fe240fc1c8caf65437ac345cf366f386ec623f
+Author: rccacho <rccacho@gmail.com>
+Date:   Fri Mar 10 15:09:40 2017 -0800
+
+    add bcrypt
+
+commit b014760cff89d3c628047fe7c4b9a0931d27bad3
+Author: rccacho <rccacho@gmail.com>
+Date:   Fri Mar 10 15:06:32 2017 -0800
+
+    set-up create path stuff
+
+commit 1592b6059367f6ccdd243a2eb9d613c14b2f9895
+Author: rccacho <rccacho@gmail.com>
+Date:   Fri Mar 10 15:02:59 2017 -0800
+
+    completed new user view
+
+commit 5666e5d09c1968269c629512fa270c6c9fe439c6
+Author: rccacho <rccacho@gmail.com>
+Date:   Fri Mar 10 14:30:44 2017 -0800
+
+    Initial commit + started users model and controller
+
